@@ -1,20 +1,4 @@
-<img width="346" alt="F1" src="https://github.com/user-attachments/assets/2a5f0c82-3e6f-406c-aae9-6f38b8a179be" />
-<img width="346" alt="F2" src="https://github.com/user-attachments/assets/ece184e9-294a-4239-9e6d-cefeac46f14f" />
-<img width="346" alt="F3" src="https://github.com/user-attachments/assets/c8c8a1f6-7450-46e4-8cce-5dbe578b9343" />
-<img width="346" alt="F4" src="https://github.com/user-attachments/assets/4082dd75-82ae-49fb-99fe-dc9d5e1be000" />
-<img width="346" alt="F5" src="https://github.com/user-attachments/assets/2af17654-fca0-4f4c-92b4-6573e5609112" />
-<img width="346" alt="F6" src="https://github.com/user-attachments/assets/45ddbdb7-6a84-4b28-86d8-90a143981c2f" />
-<img width="346" alt="F7" src="https://github.com/user-attachments/assets/6e3258c9-de35-4664-8dfc-91c74a4c699d" />
-<img width="346" alt="F8" src="https://github.com/user-attachments/assets/20c22fc8-3290-4beb-97ff-5a0b8e3f4af9" />
-<img width="346" alt="F9" src="https://github.com/user-attachments/assets/faa67461-2c4b-41a8-b770-6f19d300c9b2" />
-<img width="346" alt="F10" src="https://github.com/user-attachments/assets/c1192c2a-235c-4dd6-b430-b1ce66254731" />
-<img width="346" alt="F11" src="https://github.com/user-attachments/assets/abf9a7fe-29b8-4b2f-9a82-5b3a4542cc07" />
-<img width="346" alt="F12" src="https://github.com/user-attachments/assets/8e561397-8b77-4cfe-9dfb-9a7127cb7e13" />
-<img width="346" alt="F13" src="https://github.com/user-attachments/assets/c68647fa-3bfb-40cf-8b75-58350814286a" />
-<img width="346" alt="F14" src="https://github.com/user-attachments/assets/1e82de45-6c03-4955-a480-7e5d3adca22c" />
-<img width="346" alt="F15" src="https://github.com/user-attachments/assets/243fe92b-21c3-4e10-87b6-d9dd5284fe43" />
-<img width="346" alt="F16" src="https://github.com/user-attachments/assets/c389589c-c956-479e-8611-d8acab3aec46" />
-<img width="346" alt="F17" src="https://github.com/user-attachments/assets/4b2619fd-e26b-44cf-889f-df60a7da5df6" />
-<img width="346" alt="F18" src="https://github.com/user-attachments/assets/6b7fb09f-ecc4-4a2c-9561-1697233a16f0" />
-<img width="346" alt="F19" src="https://github.com/user-attachments/assets/443c28b3-27f7-4e24-ac5c-8a4d2c9b1039" />
-<img width="346" alt="F20" src="https://github.com/user-attachments/assets/3f111f9c-586d-413a-8461-3e534974e4ab" />
+
+https://github.com/user-attachments/assets/474ffc55-2066-45ed-b0ef-a6c9c27d776e
+Uploading copy_2936D3A6-8509-43F3-BC1D-7CAFECA36041.MOV…
+
